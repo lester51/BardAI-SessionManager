@@ -1,0 +1,2 @@
+# BardAI Session Manager
+A Chrome extension. Used to export the bardai session cookies of a logged in user or download the session cookies into bardSession.json file to be used on my BardAI NPM to login your bard google account and use its function.

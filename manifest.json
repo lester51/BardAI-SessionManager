@@ -1,0 +1,16 @@
+{
+  "name" : "BardAI-SessionManager",
+  "version" : "1",
+  "description" : "Get the login cookies of your bard ai account/google account.",
+  "permissions": [ "cookies","<all_urls>","tabs"],
+  "browser_action": {
+    "default_icon": {
+      "1280": "logo/default.png"
+    },
+    "default_popup":"popup.html"
+  },
+  "icons": {
+    "1280": "logo/default.png"
+  },
+  "manifest_version": 2
+}
